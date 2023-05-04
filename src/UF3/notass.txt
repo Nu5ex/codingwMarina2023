@@ -1,0 +1,4 @@
+Joel Calvo 3 4 3,5 6
+Twitch Fizzigs 5 4,5 8,5 5 6,5 7
+Nacho Karateca 4 6,5 8,75 10 9,5
+fi
